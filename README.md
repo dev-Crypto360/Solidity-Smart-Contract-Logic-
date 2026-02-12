@@ -1,0 +1,2 @@
+# Solidity-Smart-Contract-Logic-
+TAX SMART CONTRACT / WITH AUTOSWAP FUND WALLET WITH ETH 
